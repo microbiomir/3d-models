@@ -60,7 +60,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd D:\\bio_project\\3d_models\\textures\\spirogyra_cell_textures\\ok_pora.png
+map_Kd https://microbiomir.github.io/3d-models/models/spirogyra/textures/pore.png
 
 newmtl Ядро
 Ns 250.000000
@@ -71,4 +71,4 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd D:\\bio_project\\3d_models\\textures\\spirogyra_cell_textures\\ok_jadrishko.png
+map_Kd https://microbiomir.github.io/3d-models/models/spirogyra/textures/core.png
