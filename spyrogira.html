@@ -94,11 +94,11 @@
 
 			{
 				const mtlLoader = new MTLLoader();
-				mtlLoader.load('https://threejs.org/manual/examples/resources/models/windmill_2/windmill-fixed.mtl', (mtl) => {
+				mtlLoader.load('https://microbiomir.github.io/3d-models/models/spirogyra/spirogyra-cell.mtl', (mtl) => {
 					mtl.preload();
 					const objLoader = new OBJLoader();
 					objLoader.setMaterials(mtl);
-					objLoader.load('https://threejs.org/manual/examples/resources/models/windmill_2/windmill.obj', (root) => {
+					objLoader.load('https://microbiomir.github.io/3d-models/models/spirogyra/spirogyra-cell.obj', (root) => {
 						scene.add(root);
 
 						const box = new THREE.Box3().setFromObject(root);
