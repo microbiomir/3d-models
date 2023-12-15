@@ -1,4 +1,4 @@
-# Blender MTL File: 'spirogyra_cell.blend'
+# Blender MTL File: 'spirogira.blend'
 # Material Count: 7
 
 newmtl Material
@@ -70,4 +70,4 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd textures\\spirogyra_cell_textures\\core.png
+map_Kd textures\\core.png
