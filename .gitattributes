@@ -1,2 +1,2 @@
 *.obj filter=lfs diff=lfs merge=lfs -text
-/models/spirogyra.obj filter=lfs diff=lfs merge=lfs -text
+/models/spirogira-u.obj filter=lfs diff=lfs merge=lfs -text
